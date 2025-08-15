@@ -1,2 +1,2 @@
 # a100
-Authoe=ajay
+Author=ajay
